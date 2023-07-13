@@ -1,6 +1,2 @@
-# Quiz-Base-Frontend
-THIS REPO CONSIST OF ONLY HTML, CSS ANS JAVASCRIPT.
-THIS IS A QUIZ BASE WEBSITE BUILT WITHOUT THE SERVER SIDE.
-ALL AUTHENTITICATIONS ARE DONE USING JAVASCRITP. 
-
-Developed By: Terence Onye
+# Quiz-Base
+A Computer-Based Assessments Brought To You Without The Hassle Of Finding A CBT Centre
